@@ -9,7 +9,7 @@ Basic CRUD with Express, mySQL, React, React-Router-Dom, axios
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mb-dev-75/crud-express-mysql-react-front
+$ git clone https://github.com/mb-dev-75/crud-express-mysql-react-front.git
 
 # Go into the repository
 $ cd crud-express-mysql-react-front
